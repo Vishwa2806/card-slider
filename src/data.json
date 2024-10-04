@@ -1,0 +1,48 @@
+
+[
+    {
+      "title": "Visioning",
+      "description": "Learn how to strategize and formulate your own professional goals.",
+      "rating": "4.6",
+      "percentage": "100",
+
+      "category": "Organizational"
+    },
+    {
+      "title": "Leadership",
+      "description": "Enhance your leadership skills and empower your team.",
+      "rating": "4.8",
+      "percentage": "95",
+
+      "category": "Personal Development"
+    },
+    {
+      "title": "Project Management",
+      "description": "Master the art of managing projects effectively.",
+      "rating": "4.5",
+      "percentage": "90",
+
+      "category": "Management"
+    },
+    {
+        "title": "Project Management",
+        "description": "Master the art of managing projects effectively.",
+        "rating": "4.5",
+        "percentage": "90",
+
+        "category": "Management"
+      },    {
+        "title": "Project Management",
+        "description": "Master the art of managing projects effectively.",
+        "rating": "4.5",
+        "percentage": "90",
+        "category": "Management"
+      },    {
+        "title": "Project Management",
+        "description": "Master the art of managing projects effectively.",
+        "rating": "4.5",
+        "percentage": "90",
+        "category": "Management"
+      }
+  ]
+  
